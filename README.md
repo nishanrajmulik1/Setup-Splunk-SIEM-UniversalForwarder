@@ -67,7 +67,7 @@ If logs from the remote machine appear, syslog forwarding is successful! ✅
 
 
 📸 Screenshots
-![Successful Logs]./(screenshots/splunk%20syslog%20collection.png)
+![Successful Logs](./screenshots/splunk%20syslog%20collection.png)
 
 
 🎯 Key Learnings
